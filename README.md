@@ -4,7 +4,8 @@
 La WWI è un’azienda commerciale di compravendita di giocattoli e accessori che opera in tutto il mondo.
 
 Nonostante sia una società consolidata da anni, non ha mai effettuato un processo di digital trasformation e il management ora sente che è necessario.
-Cliente – CEO WWI
+
+# Cliente – CEO WWI
 
 WWI è un’azienda che presta particolare attenzione alle persone. È molto stimata sia per l’Employer branding, che per le relazioni con i fornitori che con i clienti.
 
